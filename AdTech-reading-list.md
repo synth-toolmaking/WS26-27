@@ -4,6 +4,7 @@ Resources to inform brainstorming on projects
 - https://crackedlabs.org/en/networksofcontrol 
 - https://crackedlabs.org/en/identity-surveillance
 - https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+  - https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming
 - https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
 - https://spreadprivacy.com/duckduckgo-tracker-radar/
 - https://hal.science/hal-04908909/document
